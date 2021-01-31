@@ -120,6 +120,12 @@
 "userIcon": ":flag_us:"
 } ,
         {
+"name": "PPS",
+"allyCode": "488342664",
+"tagIdOnDrop": "261590164638269442",
+"userIcon": ":flag_ru:"
+} ,
+        {
 "name": "GhastlyGaming",
 "allyCode": "183296457",
 "tagIdOnDrop": "",
